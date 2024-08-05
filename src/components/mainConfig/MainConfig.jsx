@@ -35,7 +35,7 @@ function MainConfig() {
                 </div>
 
 
-                <Link className='bg-white hover:bg-emerald-400 hover:text-white hover:font-bold duration-300 ease-in-out p-2 rounded-lg flex gap-3 items-center justify-center' href='https://github.com/JoaoVictorCalaca' target='_blank'> <FaGithub size={20}/> Creator's github</Link>
+                <Link className='bg-white hover:bg-emerald-400 hover:text-white hover:font-bold duration-300 ease-in-out p-2 rounded-lg flex gap-3 items-center justify-center' href='https://github.com/JoaoVictorCalaca' target='_blank'> <FaGithub size={20}/> Creator&apos;s github</Link>
             </div>
 
             <div className='w-full md:w-1/3 select-none'>
